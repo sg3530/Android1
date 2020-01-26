@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619821605182",
+    "firebase_url": "https://signupform2-f7053.firebaseio.com",
+    "project_id": "signupform2-f7053",
+    "storage_bucket": "signupform2-f7053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619821605182:android:bfff2b49ea83a9d6434c6f",
+        "android_client_info": {
+          "package_name": "com.abc.signup_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619821605182-9e65kvbhdskt9uaj0o2f87dripppqh6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.signup_form",
+            "certificate_hash": "8a7950a60f6c77d532024b8772b33db72945584c"
+          }
+        },
+        {
+          "client_id": "619821605182-3ju9632ecb1s4k8fgt7j7nb6mtsrcqll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_uSwAmjnX-naTDT6I9JcjyHBaP21-Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619821605182-3ju9632ecb1s4k8fgt7j7nb6mtsrcqll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
